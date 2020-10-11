@@ -1,10 +1,15 @@
 .hello {
   font: 15px Helvetica, Arial, sans-serif;
-  background: #eee;
+  background: rgb(112, 194, 214);
   padding: 100px;
   text-align: center;
   transition: 100ms ease-in background;
+  
 }
 .hello:hover {
-  background: #ccc;
+  background: rgb(51, 77, 116);
+}
+
+.imgg{
+  border: 20px solid orange;
 }
